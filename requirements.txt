@@ -4,8 +4,6 @@ conda-package-handling==1.6.0
 conda-verify==3.4.2
 contextlib2==0.6.0
 cryptography==2.7
-Cython==0.29.13
-cytoolz==0.10.0
 dask==2.5.2
 Flask==1.1.1
 importlib-metadata==4.11.4
